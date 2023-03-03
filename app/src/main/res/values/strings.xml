@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">weather_week1</string>
+    <string name="currentstate">Sunny</string>
+</resources>
